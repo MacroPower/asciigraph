@@ -8,7 +8,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/guptarohit/asciigraph"
+	"github.com/MacroPower/asciigraph"
 )
 
 var (
